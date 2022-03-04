@@ -4,6 +4,7 @@
 
 * Increase the size of the `/tmp` volumes to 5Mi to allow unpacking of compression libraries
 * Use `/healthz` endpoint for Kafka Exporter health checks
+* Update Cruise Control to 2.5.85
 
 ## 0.28.0
 
